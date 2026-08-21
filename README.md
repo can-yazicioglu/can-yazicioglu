@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi, I'm Can 👋
 
-<!--
-**can-yazicioglu/can-yazicioglu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science undergraduate at the **University of Manchester**, focused on
+security engineering and building things that actually ship.
 
-Here are some ideas to get you started:
+**Security:** CTFs with Hackchester (Manchester's CTF society), TryHackMe, PortSwigger Web Security Academy
+**Previously:** SWE Intern @ Turkish Technology (Turkish Airlines Group) · Developer & Analyst @ Akerio AI, London
+**Currently building:** Small security tooling, and an independent publishing project
+**Long term:** red teaming and critical-infrastructure security
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Tech:** `Python` `Java` `SQL` `React` `Git` `Linux`
+
+---
+
+📫 [LinkedIn](https://www.linkedin.com/in/canyaziciogluln/)
