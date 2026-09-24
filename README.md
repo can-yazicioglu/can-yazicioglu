@@ -19,6 +19,7 @@ AppSec Scanner uses controlled fixtures to verify supported checks. Source findi
 - **Long-term interests:** Red teaming and critical infrastructure security.
 
 **Languages:** `Python` `Java` `SQL` `JavaScript` `C` `C++`
+
 **Tools and frameworks:** `Linux` `Git` `FastAPI` `Flask` `React` `Playwright` `SQLite`
 
 ---
