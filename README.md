@@ -14,6 +14,11 @@ Since October 2026, I have been investigating the feasibility of **hardware-base
 - **[authlog-watch](https://github.com/can-yazicioglu/authlog-watch)** — An SSH brute force detector for Linux authentication logs with four detection rules, zero runtime dependencies and automated tests.
 - **[SkillSwap](https://github.com/can-yazicioglu/SkillSwap)** — Led a six-person team building a FastAPI and PostgreSQL application, then audited and remediated stored XSS and broken access control.
 
+## More projects
+
+- **[Kör](https://github.com/can-yazicioglu/Kor)** — A privacy-aware session-risk prototype with expiring evidence, explainable review recommendations and a synthetic sign-in demo. Evaluation limitations and the blocked experimental model are documented openly.
+- **[HardEarner](https://github.com/can-yazicioglu/HardEarner)** — A Windows and private-web financial workspace with a shared React interface, encrypted vaults and read-only account integrations. Publicly viewable source under a proprietary license; the hosted app remains invitation-only.
+
 ## Background
 
 BSc (Hons) Computer Science, University of Manchester — expected graduation 2028.
