@@ -34,5 +34,3 @@ Internships in software engineering and information security at Turkish Technolo
 **Tools:** Git · GitHub Actions · pytest · SQLite · MySQL · LaTeX
 
 [Email: can.yazicioglu.w@gmail.com](mailto:can.yazicioglu.w@gmail.com) · [Website](https://canyazicioglu.com) · [LinkedIn](https://www.linkedin.com/in/canyaziciogluln/) · [ORCID](https://orcid.org/0009-0002-5685-7479)
-
-[Internship reports](https://canyazicioglu.com/reports.html) · [Recommendation letters](https://canyazicioglu.com/recommendations.html)
