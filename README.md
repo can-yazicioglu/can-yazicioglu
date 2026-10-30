@@ -1,4 +1,4 @@
-## Hi, I'm Can 👋
+## I'm Can
 
 Second year Computer Science undergraduate at the **University of Manchester**, focused on **application security**. I build software, test its security boundaries, and document what the evidence supports.
 
