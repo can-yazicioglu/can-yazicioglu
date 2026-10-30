@@ -24,4 +24,4 @@ AppSec Scanner uses controlled fixtures to verify supported checks. Source findi
 
 ---
 
-📫 [LinkedIn](https://www.linkedin.com/in/canyaziciogluln/) · [Browse my repositories](https://github.com/can-yazicioglu?tab=repositories) · [ORCID](https://orcid.org/my-orcid?orcid=0009-0002-5685-7479) · [Website](https://canyazicioglu.com}
+📫 [LinkedIn](https://www.linkedin.com/in/canyaziciogluln/) · [Browse my repositories](https://github.com/can-yazicioglu?tab=repositories) · [ORCID](https://orcid.org/my-orcid?orcid=0009-0002-5685-7479) · [Website](https://canyazicioglu.com)
