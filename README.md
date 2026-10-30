@@ -18,12 +18,14 @@ Since October 2026, I have been investigating the feasibility of **hardware-base
 
 ## More projects
 
+- **[Portfolio website](https://github.com/can-yazicioglu/portfolio)**. Responsive HTML, CSS and JavaScript portfolio with desktop and mobile demonstrations, research, reports and recommendation letters.
+
 - **[Kör](https://github.com/can-yazicioglu/Kor)**. A privacy-aware session-risk prototype with expiring evidence, explainable review recommendations and a synthetic sign-in demo. Evaluation limitations and the blocked experimental model are documented openly.
-- **[HardEarner](https://github.com/can-yazicioglu/HardEarner)**. A Windows and private-web financial workspace with a shared React interface, encrypted vaults and read-only account integrations. Publicly viewable source under a proprietary license. the hosted app remains invitation-only.
+- **[HardEarner](https://github.com/can-yazicioglu/HardEarner)**. A Windows and private-web financial workspace with a shared React interface, encrypted vaults and read-only account integrations. Publicly viewable source under a proprietary license. The hosted app remains invitation-only.
 
 ## Background
 
-BSc (Hons) Computer Science, University of Manchester. expected graduation 2028.
+BSc (Hons) Computer Science, University of Manchester. Expected graduation 2028.
 
 Internships in software engineering and information security at Turkish Technology (Turkish Airlines Group), data and QA engineering at Akerio.ai, and IT and network infrastructure at Knightsbridge Clinic and Hospital.
 
