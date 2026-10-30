@@ -1,27 +1,27 @@
-## I'm Can
+# Hi, I'm Can Yazıcıoğlu
 
-Second year Computer Science undergraduate at the **University of Manchester**, focused on **application security**. I build software, test its security boundaries, and document what the evidence supports.
+Computer Science undergraduate at the University of Manchester, focused on **embedded security, low-level systems and the boundary between hardware, software and trust**.
 
-### Selected projects
+## Current research
 
-| Project | What I built |
-| --- | --- |
-| **[AppSec Scanner](https://github.com/can-yazicioglu/appsec-scanner)** | A Python toolkit combining scoped web scanning, browser-verified XSS, conservative SQL injection checks, two-account IDOR testing, and Python/JavaScript source analysis. Separates confirmed findings from suspected indicators, with SQLite history, JSON exports, and a local read-only Flask dashboard. |
-| **[authlog-watch](https://github.com/can-yazicioglu/authlog-watch)** | An SSH brute force detector for Linux authentication logs. Four detection rules, zero runtime dependencies, and 43 tests across Python 3.10–3.12 in GitHub Actions. |
-| **[SkillSwap](https://github.com/can-yazicioglu/SkillSwap)** | A skill matching web application built with a six-person university team that I led, using FastAPI and Supabase PostgreSQL. After delivery, I audited our code and fixed stored XSS and broken access control flaws. |
+Since October 2026, I have been investigating the feasibility of **hardware-based cryptographic reverse firewalls** at the University of Manchester, working with PhD student Mareta Ardyani and Dr Bernardo Magri.
 
-AppSec Scanner uses controlled fixtures to verify supported checks. Source findings require manual review; the repository documents coverage, evidence standards, and limitations.
+## Selected work
 
-### Background
+- **Processor and controller design** — A simple processor and a 3-bit, 8-state traffic light controller in SystemVerilog, validated using simulation, testbenches and assembly programs, then deployed to a development board.
+- **RISC-V assembly laboratories** — Low-level arithmetic, memory and branching programs validated against supplied tests.
+- **[AppSec Scanner](https://github.com/can-yazicioglu/appsec-scanner)** — A Python toolkit for scoped web scanning, browser-verified XSS, SQL injection checks, two-account IDOR verification and Python/JavaScript source analysis. Distinguishes confirmed findings from suspected indicators, with request budgets, hostname allowlists and credential redaction.
+- **[authlog-watch](https://github.com/can-yazicioglu/authlog-watch)** — An SSH brute force detector for Linux authentication logs with four detection rules, zero runtime dependencies and automated tests.
+- **[SkillSwap](https://github.com/can-yazicioglu/SkillSwap)** — Led a six-person team building a FastAPI and PostgreSQL application, then audited and remediated stored XSS and broken access control.
 
-- **Previously:** Software Engineering and Analysis Intern, B2B and Information Security at Turkish Technology (Turkish Airlines Group); Data and QA Engineering Intern at Akerio.ai; IT and Network Infrastructure Intern at Knightsbridge Clinic and Hospital.
-- **Learning:** PortSwigger Web Security Academy and TryHackMe alongside my degree.
-- **Long-term interests:** Red teaming and critical infrastructure security.
+## Background
 
-**Languages:** `Python` `Java` `SQL` `JavaScript` `C` `C++`
+BSc (Hons) Computer Science, University of Manchester — expected graduation 2028.
 
-**Tools and frameworks:** `Linux` `Git` `FastAPI` `Flask` `React` `Playwright` `SQLite`
+Internships in software engineering and information security at Turkish Technology (Turkish Airlines Group), data and QA engineering at Akerio.ai, and IT and network infrastructure at Knightsbridge Clinic and Hospital.
 
----
+**Systems:** C · C++ · Rust · RISC-V Assembly · SystemVerilog · Linux  
+**Software:** Python · Java · JavaScript · SQL · Haskell  
+**Tools:** Git · GitHub Actions · pytest · SQLite · MySQL · LaTeX
 
-📫 [LinkedIn](https://www.linkedin.com/in/canyaziciogluln/) · [Browse my repositories](https://github.com/can-yazicioglu?tab=repositories) · [ORCID](https://orcid.org/my-orcid?orcid=0009-0002-5685-7479) · [Me Website](https://canyazicioglu.com)
+[Website](https://canyazicioglu.com) · [LinkedIn](https://www.linkedin.com/in/canyaziciogluln/) · [ORCID](https://orcid.org/0009-0002-5685-7479)
