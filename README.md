@@ -29,6 +29,14 @@ BSc (Hons) Computer Science, University of Manchester. Expected graduation 2028.
 
 Internships in software engineering and information security at Turkish Technology (Turkish Airlines Group), data and QA engineering at Akerio.ai, and IT and network infrastructure at Knightsbridge Clinic and Hospital.
 
+Earlier IT internships at Van Yüzüncü Yıl University (June to August 2023) and Urartu Göz Tıp Merkezi (June to September 2022) covered accounts, workstations, networking, troubleshooting, backups and access permissions.
+
+**Education:** International Foundation Year at INTO Manchester, 2024 to 2025, with A*A*A*. International Baccalaureate and Anadolu High School Diploma at the American Collegiate Institute, 2019 to 2024.
+
+**Professional development:** ACM student member since 2026. Java Essential Training: Syntax and Structure, LinkedIn Learning, February 2026. Sabancı University Online Winter School courses in Python, web programming and industrial engineering, January to February 2022.
+
+[Internship reports](https://canyazicioglu.com/reports.html) · [Recommendation letters](https://canyazicioglu.com/recommendations.html)
+
 **Systems:** C · C++ · Rust · RISC-V Assembly · SystemVerilog · Linux  
 **Software:** Python · Java · JavaScript · SQL · Haskell  
 **Tools:** Git · GitHub Actions · pytest · SQLite · MySQL · LaTeX
