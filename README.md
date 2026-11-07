@@ -11,7 +11,6 @@ Since October 2026, I have been investigating the feasibility of **hardware-base
 ## Publications
 
 - C. Yazıcıoğlu and M. Kayri. *From traditional cybersecurity approaches to next-generation security architectures: a comparative review with a small-hospital case study.* Submitted to the International Journal of Information Security Science (IJISS), November 2026. Under review.
-- I presented the literature review at an online academic event at Van Yüzüncü Yıl University in November 2026 and received a certificate of appreciation.
 
 ## Selected work
 
