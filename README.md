@@ -8,6 +8,11 @@ Computer Science undergraduate at the University of Manchester, focused on **emb
 
 Since October 2026, I have been investigating the feasibility of **hardware-based cryptographic reverse firewalls** at the University of Manchester, working with PhD student Mareta Ardyani and Dr Bernardo Magri.
 
+## Publications
+
+- C. Yazıcıoğlu and M. Kayri. *From traditional cybersecurity approaches to next-generation security architectures: a comparative review with a small-hospital case study.* Submitted to the International Journal of Information Security Science (IJISS), November 2026. Under review.
+- I presented the literature review at an online academic event at Van Yüzüncü Yıl University in November 2026 and received a certificate of appreciation.
+
 ## Selected work
 
 - **Processor and controller design**. A simple processor and a 3-bit, 8-state traffic light controller in SystemVerilog, validated using simulation, testbenches and assembly programs, then deployed to a development board.
